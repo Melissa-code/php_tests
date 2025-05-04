@@ -38,5 +38,17 @@ OK (1 test, 1 assertion)
 
 ---
 
+## 4. Test d'intégration simple 
+
+- Écrire un test d'intégration pour vérifier que la classe `OrderProcessor` traite correctement une commande avec ou sans remise
+
+--- 
+
+## 5. Test end-to-end pour une API
+
+- Créer un test `end-to-end` pour vérifier que l'API retourne la liste des utilisateurs
+ 
+---
+
 
  
