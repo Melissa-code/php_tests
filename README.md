@@ -50,5 +50,9 @@ OK (1 test, 1 assertion)
  
 ---
 
+## 6. Test unitaire avec dépendances simulées 
 
+- Écrire un test unitaire pour Notification en utilisant un mock pour EmailService 
+- pour vérifier que la méthode `send()` est appelée correctement
  
+ --- 

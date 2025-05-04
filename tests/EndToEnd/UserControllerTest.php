@@ -8,6 +8,7 @@ use App\Controllers\UserController;
 class UserControllerTest extends TestCase {
 
   /**
+   * End to end test (E2E) 
    * vérifier que l'API retourne la liste des utilisateurs
    */
   public function testGetUsers(): void

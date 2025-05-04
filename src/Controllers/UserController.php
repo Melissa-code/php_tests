@@ -4,7 +4,7 @@ namespace App\Controllers;
 
 class UserController {
 
-  public function getUsers() 
+  public function getUsers() : array
   {
     return [
       ['name' => 'Alice', 'email' => 'alice@gmail.com'], 
